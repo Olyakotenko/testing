@@ -1,6 +1,6 @@
 var myAge = 20;
 if(myAge >=18 && myAge<=30){
-    alert("Yess");
+    alert("Yes");
 }else{
-    alert("Naur");
+    alert("No");
 }
